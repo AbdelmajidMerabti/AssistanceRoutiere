@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022428437621",
+    "project_id": "geocodeur-4e038",
+    "storage_bucket": "geocodeur-4e038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022428437621:android:119106f86898e6e68fec3c",
+        "android_client_info": {
+          "package_name": "com.example.geocodeur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022428437621-f6iu6v10000t16uf134bp81eqfalaj47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD67X-LBy-r4toaFXsxXjjZwibFA1uGWts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022428437621-f6iu6v10000t16uf134bp81eqfalaj47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

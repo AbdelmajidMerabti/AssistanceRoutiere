@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assistance Routière</string>
+    <string name="screen1">Pneu crevé</string>
+    <string name="screen2">En panne de carburant</string>
+    <string name="screen3">Batterie de démarrage</string>
+    <string name="screen4">Remorque de voiture</string>
+    <string name="screen1desc">Un pneu est un composant en caoutchouc monté sur une jante de roue, permettant de transférer la puissance du moteur du véhicule à la route.</string>
+    <string name="screen2desc">Le carburant est une substance essentielle pour alimenter un moteur à combustion interne et produire de l\'énergie. </string>
+    <string name="screen3desc">Une batterie est un dispositif électrique qui stocke de l\'énergie chimique et la convertit en énergie électrique.</string>
+    <string name="screen4desc">Une remorque est un véhicule non motorisé attaché à l\'arrière d\'un véhicule motorisé pour transporter des charges supplémentaires.</string>
+    <string name="startDesc">Bienvenue dans l\'application d\'assistance routière !</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="Circular">
+        <item name="cornerSize">50%</item>
+
+    </style>
+
+</resources>
